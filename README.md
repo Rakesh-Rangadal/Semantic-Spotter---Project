@@ -1,4 +1,26 @@
+# Symantic Spotter using LlamaIndex
+#### Project Objective
 
+Build a project in the insurance domain, similar to the project you saw in the ‘Retrieval Augmented Generation’ session. The goal of the project will be to build a robust generative search system capable of effectively and accurately answering questions from various policy documents. You may use LangChain or LlamaIndex to build the generative search application
+
+#### Solution Strategy
+
+Build a solution which should solve the following requirements using LlamaIndex:
+● Users would responses from insurance policy knowledge base.
+● If user want to perform a query system must be able to response to query accurately.
+
+#### Goal
+
+Solving the above two requirements well in and would ensure that the accuracy of the overall model is good.
+
+#### Data Used
+
+HDFC various Insuracne policy documetns sotred in single folder
+Tools used LlamaIndex, GhatGPT has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code.
+
+#### Tools used
+
+LlamaIndex, GhatGPT, disc cache has been used due to its powerful query engine, fast data processing using data loaders and directory readers as well as easier and faster implementation using fewer lines of code.
 Symantic Spotter using LlamaIndex.
 
 Prerequisite to run the Symantic Spotter.
@@ -6,7 +28,7 @@ Prerequisite to run the Symantic Spotter.
 Step1. : Run all the cell in install all required library and depended code.
 
 
-How to Run the Symatic Spotter: 
+#### How to Run the Symatic Spotter: 
 
 There are two ways.  you execute the query over list of insuracne documents. 
 
